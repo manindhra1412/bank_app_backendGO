@@ -1,6 +1,6 @@
 module github.com/manindhra1412/simple_bank
 
-go 1.23.5
+go 1.21
 
 require github.com/lib/pq v1.10.9
 
