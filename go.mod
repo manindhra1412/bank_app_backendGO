@@ -2,8 +2,6 @@ module github.com/manindhra1412/simple_bank
 
 go 1.24
 
-toolchain go1.24.1
-
 require (
 	github.com/gin-gonic/gin v1.10.0
 	github.com/go-playground/validator/v10 v10.25.0
